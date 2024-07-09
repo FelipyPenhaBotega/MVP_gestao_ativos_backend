@@ -25,7 +25,7 @@ def create_app():
             }
         },
         "host": "localhost:5000",
-        "basePath": "/api", 
+        "basePath": "", 
         "schemes": [
             "http",
             "https"
